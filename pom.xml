@@ -74,6 +74,20 @@
 		</dependency>
 
 	</dependencies>
+	<distributionManagement>
+		
+		<repository>
+			<id>nexus</id>
+			<name>ReleaseRepository</name>
+			<url>http://3.109.209.234:8081/repository/maven-releases/</url>
+		</repository>
+		
+		<snapshotRepository>
+			<id>nexus</id>
+			<name>SnapshotRepository</name>
+			<url>http://3.109.209.234:8081/repository/maven-snapshots</url>
+		</snapshotRepository>
+	</distribtionManagement>
 
 	<build>
 		<finalName>Charan</finalName>
