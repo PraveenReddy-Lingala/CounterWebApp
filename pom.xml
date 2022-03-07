@@ -87,7 +87,7 @@
 			<name>SnapshotRepository</name>
 			<url>http://3.109.209.234:8081/repository/maven-snapshots</url>
 		</snapshotRepository>
-	</distribtionManagement>
+	</distributionManagement>
 
 	<build>
 		<finalName>Charan</finalName>
