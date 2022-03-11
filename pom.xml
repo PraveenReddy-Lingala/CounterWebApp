@@ -14,8 +14,8 @@
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.11</junit.version>
 		<logback.version>1.0.13</logback.version>
-		<sonar.host.url>http://13.232.92.138:9000</sonar.host.url>
-		<sonar.login>d9304d435141f0cd4c4c9582d7fffe5973899116</sonar.login>
+		<sonar.host.url>http://13.234.76.158:9000</sonar.host.url>
+		<sonar.login>b2a6a697b2391a18e5f8d7fe9fac3bd037102030</sonar.login>
 		<jcl-over-slf4j.version>1.7.5</jcl-over-slf4j.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
