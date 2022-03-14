@@ -79,13 +79,13 @@
 		<repository>
 			<id>nexus</id>
 			<name>ReleaseRepository</name>
-			<url>http://3.111.29.193:8081/repository/Charan-releases/</url>
+			<url>http://13.233.133.51:8081/repository/Charan_Releases/</url>
 		</repository>
 		
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>SnapshotRepository</name>
-			<url>http://3.111.29.193:8081/repository/Charan-Snapshot/</url>
+			<url>http://13.233.133.51:8081/repository/Charan-Snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
