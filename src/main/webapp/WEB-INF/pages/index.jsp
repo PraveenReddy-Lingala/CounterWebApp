@@ -2,7 +2,7 @@
 <title> Kinnera Sample App </title>
 <style>
    body { 
-    background-color: #ffa3c4;
+    background-color: #92a8d1;
     background-repeat: no-repeat;
     background-position: center, center;
         }
