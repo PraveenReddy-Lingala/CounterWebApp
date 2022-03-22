@@ -74,20 +74,7 @@
 		</dependency>
 
 	</dependencies>
-	<distributionManagement>
-		
-		<repository>
-			<id>nexus</id>
-			<name>ReleaseRepository</name>
-			<url>http://13.233.133.51:8081/repository/Charan_Releases/</url>
-		</repository>
-		
-		<snapshotRepository>
-			<id>nexus</id>
-			<name>SnapshotRepository</name>
-			<url>http://13.233.133.51:8081/repository/Charan-Snapshot/</url>
-		</snapshotRepository>
-	</distributionManagement>
+	
 
 	<build>
 		<finalName>Charan</finalName>
